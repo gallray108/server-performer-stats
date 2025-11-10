@@ -1,16 +1,17 @@
-A bash script to analyse basic server performance stats.
+A bash script to analyse server performance stats.
 
 Getting Started
-Clone the repository
 
+Clone the repository
 git clone https://github.com/gallray108/server-performer-stats.git 
 
-Make the script executable
+Move to the directory
+cd server-performer-stats
 
+Make the script executable
 chmod +x server-stats.sh
 
 Execute the script
-
 ./server-stats.sh
 
 
